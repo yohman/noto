@@ -52,6 +52,7 @@
         <input type="checkbox" id="evacuation" checked="checked" /> <label for="evacuation">🔴 避難所</label>
         <input type="checkbox" id="hospital" checked="checked" /> <label for="hospital">🔵 病院</label>
         <input type="checkbox" id="aed" checked="checked" /> <label for="aed">🟢 AED</label>
+        <input type="checkbox" id="phone" checked="checked" /> <label for="phone">🟠 電話ボックス</label>
         <!-- Other checkboxes for different layers -->
     </div>
     <script>
@@ -146,6 +147,25 @@
                 }
             });
 
+            map.addSource('phone-data', {
+                type: 'geojson',
+                data: 'phone.geojson'
+            });
+
+            map.addLayer({
+                id: 'phone-layer',
+                type: 'circle',
+                source: 'phone-data',
+                paint: {
+                    'circle-radius': 4,
+                    'circle-color': '#f90', // orange
+                    'circle-stroke-width': 1,
+                },
+                layout: {
+                    'visibility': 'visible' // Initially visible
+                }
+            });
+
             // Toggle visibility of evacuation-layer based on checkbox state
             document.getElementById('evacuation').addEventListener('change', function (e) {
                 var visibility = e.target.checked ? 'visible' : 'none';
@@ -162,6 +182,12 @@
             document.getElementById('aed').addEventListener('change', function (e) {
                 var visibility = e.target.checked ? 'visible' : 'none';
                 map.setLayoutProperty('aed-layer', 'visibility', visibility);
+            });
+
+            // Toggle visibility of phone-layer based on checkbox state
+            document.getElementById('phone').addEventListener('change', function (e) {
+                var visibility = e.target.checked ? 'visible' : 'none';
+                map.setLayoutProperty('phone-layer', 'visibility', visibility);
             });
 
             // Add mouseenter event to show label with field 名称
