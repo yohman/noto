@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Noto Map</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.5.1/mapbox-gl.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.5.1/mapbox-gl.css" rel="stylesheet" />
+    <style>
+        body { margin: 0; padding: 0; }
+        #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <div id="layer" style="position: absolute; top: 0; left: 0;">Layers</div>
+    <div id="menu" style="position: absolute; top: 30px; left: 10px; background-color: #fff; padding: 10px;">
+        <input type="checkbox" id="evacuation" checked="checked" /> <label for="evacuation">避難所</label>
+        <input type="checkbox" id="hospital" checked="checked" /> <label for="hospital">病院</label>
+        <input type="checkbox" id="aed" checked="checked" /> <label for="aed">aed</label>
+        <!-- Other checkboxes for different layers -->
+    </div>
+    <script>
+        mapboxgl.accessToken = 'pk.eyJ1IjoieW9obWFuIiwiYSI6IkxuRThfNFkifQ.u2xRJMiChx914U7mOZMiZw';
+
+        var map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/streets-v11',
+            style: 'mapbox://styles/mapbox/satellite-v9',
+            center: [137.0, 37.1], // Noto coordinates [longitude, latitude]
+            zoom: 8 // Zoom level
+        });
+
+        map.on('load', function () {
+            console.log("load");
+
+            map.addSource('evacuation-data', {
+                type: 'geojson',
+                data: 'evacuation_space.geojson'
+            });
+
+            map.addLayer({
+                id: 'evacuation-layer',
+                type: 'circle',
+                source: 'evacuation-data',
+                paint: {
+                    'circle-radius': 4,
+                    'circle-color': '#f00',
+                    'circle-stroke-width': 1,
+                },
+                layout: {
+                    'visibility': 'visible' // Initially visible
+                }
+            });
+
+            map.addSource('hospital-data', {
+                type: 'geojson',
+                data: '170003_hospital_1_byouin.geojson'
+            });
+
+            map.addLayer({
+                id: 'hospital-layer',
+                type: 'circle',
+                source: 'hospital-data',
+                paint: {
+                    'circle-radius': 4,
+                    'circle-color': '#00f',
+                    'circle-stroke-width': 1,
+                },
+                layout: {
+                    'visibility': 'visible' // Initially visible
+                }
+            });
+
+            map.addSource('aed-data', {
+                type: 'geojson',
+                data: '170003_aed.geojson'
+            });
+
+            map.addLayer({
+                id: 'aed-layer',
+                type: 'circle',
+                source: 'aed-data',
+                paint: {
+                    'circle-radius': 4,
+                    'circle-color': '#0f0',
+                    'circle-stroke-width': 1,
+                },
+                layout: {
+                    'visibility': 'visible' // Initially visible
+                }
+            });
+
+            // Toggle visibility of evacuation-layer based on checkbox state
+            document.getElementById('evacuation').addEventListener('change', function (e) {
+                var visibility = e.target.checked ? 'visible' : 'none';
+                map.setLayoutProperty('evacuation-layer', 'visibility', visibility);
+            });
+
+            // Toggle visibility of hospital-layer based on checkbox state
+            document.getElementById('hospital').addEventListener('change', function (e) {
+                var visibility = e.target.checked ? 'visible' : 'none';
+                map.setLayoutProperty('hospital-layer', 'visibility', visibility);
+            });
+
+            // Toggle visibility of aed-layer based on checkbox state
+            document.getElementById('aed').addEventListener('change', function (e) {
+                var visibility = e.target.checked ? 'visible' : 'none';
+                map.setLayoutProperty('aed-layer', 'visibility', visibility);
+            });
+
+            // Add mouseenter event to show label with field 名称
+            map.on('mouseenter', 'evacuation-layer', function (e) {
+                map.getCanvas().style.cursor = 'pointer';
+                var coordinates = e.features[0].geometry.coordinates.slice();
+                var 名称 = e.features[0].properties.名称;
+
+                // Ensure that if the map is zoomed out such that multiple
+                // copies of the feature are visible, the label is shown
+                // only once.
+                while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+                    coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+                }
+
+                new mapboxgl.Popup()
+                    .setLngLat(coordinates)
+                    .setHTML('<h3>' + 名称 + '</h3>')
+                    .addTo(map);
+            });
+
+            // Add mouseleave event to close the label
+            map.on('mouseleave', 'evacuation-layer', function () {
+                console.log("leave");
+                map.getCanvas().style.cursor = '';
+                map.closePopup();
+            });
+
+            // Add mouseenter event to show label with field 名称
+            map.on('mouseenter', 'hospital-layer', function (e) {
+                map.getCanvas().style.cursor = 'pointer';
+                var coordinates = e.features[0].geometry.coordinates.slice();
+                var 名称 = e.features[0].properties.名称;
+
+                // Ensure that if the map is zoomed out such that multiple
+                // copies of the feature are visible, the label is shown
+                // only once.
+                while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+                    coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+                }
+
+                var popup = new mapboxgl.Popup()
+                    .setLngLat(coordinates)
+                    .setHTML('<h3>' + 名称 + '</h3>')
+                    .addTo(map);
+                
+                // Close the popup when the mouse leaves the point
+                popup.on('close', function () {
+                    map.getCanvas().style.cursor = '';
+                });
+            });
+
+            // Add mouseleave event to close the label
+            // map.on('mouseleave', 'hospital-layer', function () {
+            //     map.getCanvas().style.cursor = '';
+            //     map.closePopup();
+            // });
+
+            // Add mouseenter event to show label with field 名称
+            map.on('mouseenter', 'aed-layer', function (e) {
+                map.getCanvas().style.cursor = 'pointer';
+                var coordinates = e.features[0].geometry.coordinates.slice();
+                var 名称 = e.features[0].properties.名称;
+
+                // Ensure that if the map is zoomed out such that multiple
+                // copies of the feature are visible, the label is shown
+                // only once.
+                while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+                    coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+                }
+
+                new mapboxgl.Popup()
+                    .setLngLat(coordinates)
+                    .setHTML('<h3>' + 名称 + '</h3>')
+                    .addTo(map);
+            });
+
+            // Add mouseleave event to close the label
+            map.on('mouseleave', 'aed-layer', function () {
+                map.getCanvas().style.cursor = '';
+                map.closePopup();
+            });
+        });
+    </script>
+</body>
+</html>
+
+            
