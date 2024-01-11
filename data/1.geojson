@@ -1,0 +1,3596 @@
+{
+"type": "FeatureCollection",
+"features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C01",
+        "写真番号": "0001",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0001.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0001.jpg</a>",
+        "撮影日": "2024年1月2日 11時22分51秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.377993,
+          37.543885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C01",
+        "写真番号": "0002",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0002.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0002.jpg</a>",
+        "撮影日": "2024年1月2日 11時22分39秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.377997,
+          37.534432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C01",
+        "写真番号": "0003",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0003.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0003.jpg</a>",
+        "撮影日": "2024年1月2日 11時22分28秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.377985,
+          37.524967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C01",
+        "写真番号": "0004",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0004.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0004.jpg</a>",
+        "撮影日": "2024年1月2日 11時22分16秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.377929,
+          37.515510
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C01",
+        "写真番号": "0005",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0005.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0005.jpg</a>",
+        "撮影日": "2024年1月2日 11時22分5秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.377869,
+          37.506069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C01",
+        "写真番号": "0006",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0006.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0006.jpg</a>",
+        "撮影日": "2024年1月2日 11時21分53秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.377845,
+          37.496618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C01",
+        "写真番号": "0007",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0007.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0007.jpg</a>",
+        "撮影日": "2024年1月2日 11時21分42秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.377803,
+          37.487184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C01",
+        "写真番号": "0008",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0008.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0008.jpg</a>",
+        "撮影日": "2024年1月2日 11時21分31秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.377804,
+          37.477729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C01",
+        "写真番号": "0009",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0009.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0009.jpg</a>",
+        "撮影日": "2024年1月2日 11時21分19秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.377789,
+          37.468315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C01",
+        "写真番号": "0010",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0010.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0010.jpg</a>",
+        "撮影日": "2024年1月2日 11時21分8秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.377741,
+          37.458935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C01",
+        "写真番号": "0011",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0011.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0011.jpg</a>",
+        "撮影日": "2024年1月2日 11時20分56秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.377709,
+          37.449552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C01",
+        "写真番号": "0012",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0012.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0012.jpg</a>",
+        "撮影日": "2024年1月2日 11時20分45秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.377635,
+          37.440176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C01",
+        "写真番号": "0013",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0013.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0013.jpg</a>",
+        "撮影日": "2024年1月2日 11時20分33秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.377647,
+          37.430821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C01",
+        "写真番号": "0014",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0014.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0014.jpg</a>",
+        "撮影日": "2024年1月2日 11時20分21秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.377627,
+          37.421448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C01",
+        "写真番号": "0015",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0015.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0015.jpg</a>",
+        "撮影日": "2024年1月2日 11時20分9秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.377555,
+          37.412089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C03",
+        "写真番号": "0016",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0016.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0016.jpg</a>",
+        "撮影日": "2024年1月2日 11時8分29秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.304902,
+          37.557231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C03",
+        "写真番号": "0017",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0017.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0017.jpg</a>",
+        "撮影日": "2024年1月2日 11時8分18秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.304875,
+          37.547778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C03",
+        "写真番号": "0018",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0018.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0018.jpg</a>",
+        "撮影日": "2024年1月2日 11時8分6秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.304876,
+          37.538317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C03",
+        "写真番号": "0019",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0019.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0019.jpg</a>",
+        "撮影日": "2024年1月2日 11時7分55秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.304856,
+          37.529072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C03",
+        "写真番号": "0020",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0020.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0020.jpg</a>",
+        "撮影日": "2024年1月2日 11時7分44秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.304867,
+          37.520029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C03",
+        "写真番号": "0021",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0021.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0021.jpg</a>",
+        "撮影日": "2024年1月2日 11時7分33秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.304852,
+          37.510984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C03",
+        "写真番号": "0022",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0022.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0022.jpg</a>",
+        "撮影日": "2024年1月2日 11時7分22秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.304818,
+          37.502001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C03",
+        "写真番号": "0023",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0023.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0023.jpg</a>",
+        "撮影日": "2024年1月2日 11時7分11秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.304760,
+          37.492991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C03",
+        "写真番号": "0024",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0024.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0024.jpg</a>",
+        "撮影日": "2024年1月2日 11時7分0秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.304706,
+          37.483988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C03",
+        "写真番号": "0025",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0025.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0025.jpg</a>",
+        "撮影日": "2024年1月2日 11時6分49秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.304749,
+          37.474992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C03",
+        "写真番号": "0026",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0026.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0026.jpg</a>",
+        "撮影日": "2024年1月2日 11時6分39秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.304775,
+          37.465987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C03",
+        "写真番号": "0027",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0027.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0027.jpg</a>",
+        "撮影日": "2024年1月2日 11時6分27秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.304775,
+          37.456719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C03",
+        "写真番号": "0028",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0028.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0028.jpg</a>",
+        "撮影日": "2024年1月2日 11時6分16秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.304776,
+          37.447432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C03",
+        "写真番号": "0029",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0029.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0029.jpg</a>",
+        "撮影日": "2024年1月2日 11時6分5秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.304744,
+          37.438165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C03",
+        "写真番号": "0030",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0030.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0030.jpg</a>",
+        "撮影日": "2024年1月2日 11時5分53秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.304663,
+          37.428864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C03",
+        "写真番号": "0031",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0031.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0031.jpg</a>",
+        "撮影日": "2024年1月2日 11時5分42秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.304639,
+          37.419601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C03",
+        "写真番号": "0032",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0032.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0032.jpg</a>",
+        "撮影日": "2024年1月2日 11時5分31秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.304616,
+          37.410334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C05",
+        "写真番号": "0033",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0033.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0033.jpg</a>",
+        "撮影日": "2024年1月2日 10時37分3秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.233359,
+          37.552248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C05",
+        "写真番号": "0034",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0034.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0034.jpg</a>",
+        "撮影日": "2024年1月2日 10時36分51秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.233385,
+          37.542788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C05",
+        "写真番号": "0035",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0035.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0035.jpg</a>",
+        "撮影日": "2024年1月2日 10時36分38秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.233402,
+          37.533408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C05",
+        "写真番号": "0036",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0036.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0036.jpg</a>",
+        "撮影日": "2024年1月2日 10時36分26秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.233392,
+          37.524373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C05",
+        "写真番号": "0037",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0037.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0037.jpg</a>",
+        "撮影日": "2024年1月2日 10時36分14秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.233369,
+          37.515333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C05",
+        "写真番号": "0038",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0038.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0038.jpg</a>",
+        "撮影日": "2024年1月2日 10時36分2秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.233390,
+          37.506414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C05",
+        "写真番号": "0039",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0039.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0039.jpg</a>",
+        "撮影日": "2024年1月2日 10時35分51秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.233444,
+          37.497701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C05",
+        "写真番号": "0040",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0040.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0040.jpg</a>",
+        "撮影日": "2024年1月2日 10時35分39秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.233414,
+          37.488988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C05",
+        "写真番号": "0041",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0041.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0041.jpg</a>",
+        "撮影日": "2024年1月2日 10時35分28秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.233371,
+          37.480293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C05",
+        "写真番号": "0042",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0042.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0042.jpg</a>",
+        "撮影日": "2024年1月2日 10時35分17秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.233329,
+          37.471578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C05",
+        "写真番号": "0043",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0043.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0043.jpg</a>",
+        "撮影日": "2024年1月2日 10時35分6秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.233259,
+          37.462564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C05",
+        "写真番号": "0044",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0044.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0044.jpg</a>",
+        "撮影日": "2024年1月2日 10時34分55秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.233249,
+          37.453612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C05",
+        "写真番号": "0045",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0045.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0045.jpg</a>",
+        "撮影日": "2024年1月2日 10時34分44秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.233279,
+          37.444775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C05",
+        "写真番号": "0046",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0046.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0046.jpg</a>",
+        "撮影日": "2024年1月2日 10時34分33秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.233264,
+          37.435958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C05",
+        "写真番号": "0047",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0047.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0047.jpg</a>",
+        "撮影日": "2024年1月2日 10時34分22秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.233249,
+          37.427151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C05",
+        "写真番号": "0048",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0048.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0048.jpg</a>",
+        "撮影日": "2024年1月2日 10時34分10秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.233270,
+          37.418028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C05",
+        "写真番号": "0049",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0049.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0049.jpg</a>",
+        "撮影日": "2024年1月2日 10時33分59秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.233300,
+          37.408914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C05",
+        "写真番号": "0050",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0050.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0050.jpg</a>",
+        "撮影日": "2024年1月2日 10時33分47秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.233281,
+          37.399792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C05",
+        "写真番号": "0051",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0051.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0051.jpg</a>",
+        "撮影日": "2024年1月2日 10時33分35秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.233240,
+          37.390684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C05",
+        "写真番号": "0052",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0052.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0052.jpg</a>",
+        "撮影日": "2024年1月2日 10時33分24秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.233192,
+          37.381609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C05",
+        "写真番号": "0053",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0053.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0053.jpg</a>",
+        "撮影日": "2024年1月2日 10時33分12秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.233169,
+          37.372665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C05",
+        "写真番号": "0054",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0054.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0054.jpg</a>",
+        "撮影日": "2024年1月2日 10時32分60秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.233188,
+          37.363714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C07",
+        "写真番号": "0055",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0055.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0055.jpg</a>",
+        "撮影日": "2024年1月2日 10時53分29秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.164182,
+          37.527356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C07",
+        "写真番号": "0056",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0056.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0056.jpg</a>",
+        "撮影日": "2024年1月2日 10時53分18秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.164218,
+          37.517901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C07",
+        "写真番号": "0057",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0057.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0057.jpg</a>",
+        "撮影日": "2024年1月2日 10時53分6秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.164173,
+          37.508437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C07",
+        "写真番号": "0058",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0058.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0058.jpg</a>",
+        "撮影日": "2024年1月2日 10時52分55秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.164088,
+          37.499452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C07",
+        "写真番号": "0059",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0059.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0059.jpg</a>",
+        "撮影日": "2024年1月2日 10時52分44秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.164109,
+          37.490582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C07",
+        "写真番号": "0060",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0060.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0060.jpg</a>",
+        "撮影日": "2024年1月2日 10時52分34秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.164152,
+          37.482061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C07",
+        "写真番号": "0061",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0061.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0061.jpg</a>",
+        "撮影日": "2024年1月2日 10時52分23秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.164151,
+          37.473526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C07",
+        "写真番号": "0062",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0062.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0062.jpg</a>",
+        "撮影日": "2024年1月2日 10時52分13秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.164125,
+          37.465006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C07",
+        "写真番号": "0063",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0063.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0063.jpg</a>",
+        "撮影日": "2024年1月2日 10時52分2秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.164113,
+          37.456495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C07",
+        "写真番号": "0064",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0064.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0064.jpg</a>",
+        "撮影日": "2024年1月2日 10時51分51秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.164137,
+          37.447710
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C07",
+        "写真番号": "0065",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0065.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0065.jpg</a>",
+        "撮影日": "2024年1月2日 10時51分40秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.164178,
+          37.439338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C07",
+        "写真番号": "0066",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0066.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0066.jpg</a>",
+        "撮影日": "2024年1月2日 10時51分29秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.164210,
+          37.430969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C07",
+        "写真番号": "0067",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0067.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0067.jpg</a>",
+        "撮影日": "2024年1月2日 10時51分19秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.164223,
+          37.422597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C07",
+        "写真番号": "0068",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0068.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0068.jpg</a>",
+        "撮影日": "2024年1月2日 10時51分8秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.164222,
+          37.414223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C07",
+        "写真番号": "0069",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0069.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0069.jpg</a>",
+        "撮影日": "2024年1月2日 10時50分57秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.164175,
+          37.405848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C07",
+        "写真番号": "0070",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0070.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0070.jpg</a>",
+        "撮影日": "2024年1月2日 10時50分47秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.164138,
+          37.397484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C07",
+        "写真番号": "0071",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0071.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0071.jpg</a>",
+        "撮影日": "2024年1月2日 10時50分36秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.164168,
+          37.388762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C07",
+        "写真番号": "0072",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0072.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0072.jpg</a>",
+        "撮影日": "2024年1月2日 10時50分24秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.164192,
+          37.380034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C07",
+        "写真番号": "0073",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0073.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0073.jpg</a>",
+        "撮影日": "2024年1月2日 10時50分13秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.164174,
+          37.371306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C07",
+        "写真番号": "0074",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0074.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0074.jpg</a>",
+        "撮影日": "2024年1月2日 10時50分2秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.164108,
+          37.362592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C02",
+        "写真番号": "0075",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0075.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0075.jpg</a>",
+        "撮影日": "2024年1月2日 11時12分30秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.340925,
+          37.552012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C02",
+        "写真番号": "0076",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0076.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0076.jpg</a>",
+        "撮影日": "2024年1月2日 11時12分45秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.340914,
+          37.542561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C02",
+        "写真番号": "0077",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0077.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0077.jpg</a>",
+        "撮影日": "2024年1月2日 11時12分59秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.340894,
+          37.533163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C02",
+        "写真番号": "0078",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0078.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0078.jpg</a>",
+        "撮影日": "2024年1月2日 11時13分14秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.340877,
+          37.523889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C02",
+        "写真番号": "0079",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0079.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0079.jpg</a>",
+        "撮影日": "2024年1月2日 11時13分28秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.340861,
+          37.514940
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C02",
+        "写真番号": "0080",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0080.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0080.jpg</a>",
+        "撮影日": "2024年1月2日 11時13分41秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.340839,
+          37.505984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C02",
+        "写真番号": "0081",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0081.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0081.jpg</a>",
+        "撮影日": "2024年1月2日 11時13分55秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.340815,
+          37.497031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C02",
+        "写真番号": "0082",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0082.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0082.jpg</a>",
+        "撮影日": "2024年1月2日 11時14分9秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.340780,
+          37.487809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C02",
+        "写真番号": "0083",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0083.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0083.jpg</a>",
+        "撮影日": "2024年1月2日 11時14分23秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.340750,
+          37.478590
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C02",
+        "写真番号": "0084",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0084.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0084.jpg</a>",
+        "撮影日": "2024年1月2日 11時14分37秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.340721,
+          37.469356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C02",
+        "写真番号": "0085",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0085.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0085.jpg</a>",
+        "撮影日": "2024年1月2日 11時14分52秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.340710,
+          37.460134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C02",
+        "写真番号": "0086",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0086.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0086.jpg</a>",
+        "撮影日": "2024年1月2日 11時15分6秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.340706,
+          37.450906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C02",
+        "写真番号": "0087",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0087.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0087.jpg</a>",
+        "撮影日": "2024年1月2日 11時15分20秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.340689,
+          37.441683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C02",
+        "写真番号": "0088",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0088.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0088.jpg</a>",
+        "撮影日": "2024年1月2日 11時15分33秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.340672,
+          37.432475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C02",
+        "写真番号": "0089",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0089.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0089.jpg</a>",
+        "撮影日": "2024年1月2日 11時15分47秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.340661,
+          37.423245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C02",
+        "写真番号": "0090",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0090.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0090.jpg</a>",
+        "撮影日": "2024年1月2日 11時16分1秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.340656,
+          37.414019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C04",
+        "写真番号": "0091",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0091.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0091.jpg</a>",
+        "撮影日": "2024年1月2日 10時41分22秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.268892,
+          37.558127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C04",
+        "写真番号": "0092",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0092.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0092.jpg</a>",
+        "撮影日": "2024年1月2日 10時41分37秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.268858,
+          37.548670
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C04",
+        "写真番号": "0093",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0093.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0093.jpg</a>",
+        "撮影日": "2024年1月2日 10時41分51秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.268846,
+          37.539208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C04",
+        "写真番号": "0094",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0094.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0094.jpg</a>",
+        "撮影日": "2024年1月2日 10時42分5秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.268824,
+          37.530044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C04",
+        "写真番号": "0095",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0095.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0095.jpg</a>",
+        "撮影日": "2024年1月2日 10時42分19秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.268845,
+          37.520968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C04",
+        "写真番号": "0096",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0096.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0096.jpg</a>",
+        "撮影日": "2024年1月2日 10時42分33秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.268856,
+          37.511930
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C04",
+        "写真番号": "0097",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0097.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0097.jpg</a>",
+        "撮影日": "2024年1月2日 10時42分46秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.268837,
+          37.502965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C04",
+        "写真番号": "0098",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0098.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0098.jpg</a>",
+        "撮影日": "2024年1月2日 10時42分60秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.268847,
+          37.494005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C04",
+        "写真番号": "0099",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0099.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0099.jpg</a>",
+        "撮影日": "2024年1月2日 10時43分13秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.268844,
+          37.485270
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C04",
+        "写真番号": "0100",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0100.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0100.jpg</a>",
+        "撮影日": "2024年1月2日 10時43分27秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.268836,
+          37.476183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C04",
+        "写真番号": "0101",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0101.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0101.jpg</a>",
+        "撮影日": "2024年1月2日 10時43分40秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.268831,
+          37.467118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C04",
+        "写真番号": "0102",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0102.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0102.jpg</a>",
+        "撮影日": "2024年1月2日 10時43分54秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.268796,
+          37.458037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C04",
+        "写真番号": "0103",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0103.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0103.jpg</a>",
+        "撮影日": "2024年1月2日 10時44分7秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.268772,
+          37.448980
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C04",
+        "写真番号": "0104",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0104.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0104.jpg</a>",
+        "撮影日": "2024年1月2日 10時44分20秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.268775,
+          37.439901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C04",
+        "写真番号": "0105",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0105.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0105.jpg</a>",
+        "撮影日": "2024年1月2日 10時44分34秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.268778,
+          37.430838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C04",
+        "写真番号": "0106",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0106.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0106.jpg</a>",
+        "撮影日": "2024年1月2日 10時44分47秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.268754,
+          37.421776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C04",
+        "写真番号": "0107",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0107.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0107.jpg</a>",
+        "撮影日": "2024年1月2日 10時45分1秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.268720,
+          37.412336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C04",
+        "写真番号": "0108",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0108.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0108.jpg</a>",
+        "撮影日": "2024年1月2日 10時45分15秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.268695,
+          37.402916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C04",
+        "写真番号": "0109",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0109.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0109.jpg</a>",
+        "撮影日": "2024年1月2日 10時45分29秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.268693,
+          37.393492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C04",
+        "写真番号": "0110",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0110.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0110.jpg</a>",
+        "撮影日": "2024年1月2日 10時45分43秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.268692,
+          37.384069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C04",
+        "写真番号": "0111",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0111.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0111.jpg</a>",
+        "撮影日": "2024年1月2日 10時45分57秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.268675,
+          37.374647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C04",
+        "写真番号": "0112",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0112.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0112.jpg</a>",
+        "撮影日": "2024年1月2日 10時46分11秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.268671,
+          37.365220
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C06",
+        "写真番号": "0113",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0113.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0113.jpg</a>",
+        "撮影日": "2024年1月2日 10時57分3秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.198194,
+          37.543813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C06",
+        "写真番号": "0114",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0114.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0114.jpg</a>",
+        "撮影日": "2024年1月2日 10時57分17秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.198204,
+          37.534353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C06",
+        "写真番号": "0115",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0115.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0115.jpg</a>",
+        "撮影日": "2024年1月2日 10時57分32秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.198183,
+          37.524873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C06",
+        "写真番号": "0116",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0116.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0116.jpg</a>",
+        "撮影日": "2024年1月2日 10時57分46秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.198174,
+          37.515510
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C06",
+        "写真番号": "0117",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0117.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0117.jpg</a>",
+        "撮影日": "2024年1月2日 10時57分60秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.198143,
+          37.506351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C06",
+        "写真番号": "0118",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0118.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0118.jpg</a>",
+        "撮影日": "2024年1月2日 10時58分13秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.198167,
+          37.497510
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C06",
+        "写真番号": "0119",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0119.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0119.jpg</a>",
+        "撮影日": "2024年1月2日 10時58分26秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.198195,
+          37.488851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C06",
+        "写真番号": "0120",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0120.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0120.jpg</a>",
+        "撮影日": "2024年1月2日 10時58分39秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.198231,
+          37.480226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C06",
+        "写真番号": "0121",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0121.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0121.jpg</a>",
+        "撮影日": "2024年1月2日 10時58分52秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.198234,
+          37.471562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C06",
+        "写真番号": "0122",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0122.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0122.jpg</a>",
+        "撮影日": "2024年1月2日 10時59分5秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.198195,
+          37.462936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C06",
+        "写真番号": "0123",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0123.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0123.jpg</a>",
+        "撮影日": "2024年1月2日 10時59分18秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.198160,
+          37.454278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C06",
+        "写真番号": "0124",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0124.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0124.jpg</a>",
+        "撮影日": "2024年1月2日 10時59分31秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.198156,
+          37.445738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C06",
+        "写真番号": "0125",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0125.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0125.jpg</a>",
+        "撮影日": "2024年1月2日 10時59分43秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.198201,
+          37.437289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C06",
+        "写真番号": "0126",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0126.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0126.jpg</a>",
+        "撮影日": "2024年1月2日 10時59分56秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.198238,
+          37.428827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C06",
+        "写真番号": "0127",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0127.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0127.jpg</a>",
+        "撮影日": "2024年1月2日 11時0分9秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.198223,
+          37.420382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C06",
+        "写真番号": "0128",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0128.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0128.jpg</a>",
+        "撮影日": "2024年1月2日 11時0分21秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.198211,
+          37.411942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C06",
+        "写真番号": "0129",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0129.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0129.jpg</a>",
+        "撮影日": "2024年1月2日 11時0分35秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.198212,
+          37.403192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C06",
+        "写真番号": "0130",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0130.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0130.jpg</a>",
+        "撮影日": "2024年1月2日 11時0分48秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.198224,
+          37.394459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C06",
+        "写真番号": "0131",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0131.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0131.jpg</a>",
+        "撮影日": "2024年1月2日 11時1分1秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.198215,
+          37.385740
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C06",
+        "写真番号": "0132",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0132.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0132.jpg</a>",
+        "撮影日": "2024年1月2日 11時1分15秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.198179,
+          37.376994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠洲地区",
+        "コース番号": "C06",
+        "写真番号": "0133",
+        "写真": "<a href=\"https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0133.jpg\" target=\"_blank\">https://maps.gsi.go.jp/xyz/20240102noto_data/0102suzu_DMC/photo/qv/0133.jpg</a>",
+        "撮影日": "2024年1月2日 11時1分28秒",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.198157,
+          37.368002
+        ]
+      }
+    }
+  ]
+}
