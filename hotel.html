@@ -118,6 +118,11 @@
                     photourl = item[10]
                     photohtml = '<img src="'+photourl+'" width=100% alt="Photo">'
 
+					if (item[13]) {
+						photohtml += '<img src="' + item[13] + '" width=100% alt="Additional Photo">';
+					}
+
+
                     // image url
                     url = item[11]
                     urlhtml = '<a href="'+url+'" width=100% alt="website">'+url+'</a>'
