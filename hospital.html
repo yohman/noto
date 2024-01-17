@@ -95,24 +95,21 @@
                     lon = Number(item[7])
 
 
-                    if (item[2] == 1) {
-                        places.addLayer(L.circleMarker([lat, lon], {
-                            color: 'white',
-                            fillColor: 'green',
-                            fillOpacity: 1,
-                            radius: 10,
-                            weight: 2
-                        }).bindPopup(item[3]));
-                    } else {
-                        places.addLayer(L.circleMarker([lat, lon], {
-                            color: 'white',
-                            fillColor: 'red',
-                            fillOpacity: 1,
-                            radius: 10,
-                            weight: 2
-                        }).bindPopup(item[3]));
-                    }
+					places.addLayer(L.circleMarker([lat, lon], {
+						color: 'white',
+						fillColor: 'red',
+						fillOpacity: 0.5,
+						radius: item[12]/15,
+						weight: 2
+					}).bindPopup(item[3]));
 
+					places.addLayer(L.circleMarker([lat, lon], {
+						color: 'white',
+						fillColor: 'white',
+						fillOpacity: 1,
+						radius: 5,
+						weight: 2
+					}).bindPopup(item[3]));	
 
                     // image url
                     photourl = item[10]
