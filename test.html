@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Mapbox Map</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.5.1/mapbox-gl.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.5.1/mapbox-gl.css" rel="stylesheet" />
+    <style>
+        body, html, .container, #map1, #map2 {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            display: flex;
+        }
+
+        .info-panel {
+            flex: 1;
+            background-color: #f2f2f2;
+            padding: 20px;
+            overflow: auto; /* Add scroll if content is larger than the panel */
+        }
+
+        #map1, #map2 {
+            flex: 1;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="map1"></div>
+        <div id="map2"></div>
+    </div>
+
+    <script>
+        mapboxgl.accessToken = 'pk.eyJ1IjoieW9obWFuIiwiYSI6IkxuRThfNFkifQ.u2xRJMiChx914U7mOZMiZw';
+
+        var map1 = new mapboxgl.Map({
+            container: 'map1',
+            style: 'mapbox://styles/mapbox/streets-v11',
+            center: [136.9926, 37.2279], // Noto coordinates [longitude, latitude]
+            zoom: 8
+        });
+
+        var map2 = new mapboxgl.Map({
+            container: 'map2',
+            style: 'mapbox://styles/mapbox/satellite-v9',
+            center: [136.9926, 37.2279], // Noto coordinates [longitude, latitude]
+            zoom: 8
+        });
+
+        // Sync the maps
+        map1.on('move', function () {
+            var center = map1.getCenter();
+            var zoom = map1.getZoom();
+
+            map2.jumpTo({
+                center: center,
+                zoom: zoom
+            });
+        });
+
+        map2.on('move', function () {
+            var center = map2.getCenter();
+            var zoom = map2.getZoom();
+
+            map1.jumpTo({
+                center: center,
+                zoom: zoom
+            });
+        });
+    </script>
+</body>
+</html>
+        <div id="map"></div>
+        <div class="info-panel">
+            <!-- Add your info panel content here -->
+        </div>
+    </div>
+
+    <script>
+        mapboxgl.accessToken = 'pk.eyJ1IjoieW9obWFuIiwiYSI6IkxuRThfNFkifQ.u2xRJMiChx914U7mOZMiZw';
+
+        var map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/streets-v11',
+            center: [136.9926, 37.2279], // Noto coordinates [longitude, latitude]
+            zoom: 8
+        });
+    </script>
+</body>
+</html>

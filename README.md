@@ -6,6 +6,14 @@
 
 ## Log
 
+### January 12, 2024
+
+- added zones susceptible to landslides
+- added 3D mapping to allow for terrain visualizations 
+
+![Alt text](images/web2.jpg)
+
+
 ### January 10, 2024
 
 Students at Reitaku University are building a crisis map for the Noto Earthquake. Using a simple model, each student volunteers to "find" data relevant to the crisis, downloads, exlores, conducts geoprocessing in Python, and ultimately converts the data into a web-friendly geojson format. A customized web front end is built using MapboxGL's javascript API to visualize the cleaned up data and posted on GitHub pages for the public. 
