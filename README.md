@@ -6,6 +6,21 @@
 
 ## Log
 
+### January 17, 2024
+
+- added hotels offering free accommodations for survivors
+
+![Alt text](images/hotel.jpg)
+[https://yohman.github.io/noto/hotel.html](https://yohman.github.io/noto/hotel.html)
+
+### January 16, 2024
+
+- added supporting hospitals and their capacities
+
+![Alt text](images/hospitals.jpg)
+[https://yohman.github.io/noto/hospital.html](https://yohman.github.io/noto/hospital.html)
+
+
 ### January 12, 2024
 
 - added zones susceptible to landslides
